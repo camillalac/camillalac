@@ -37,8 +37,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=camillalac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiche GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camillalac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguaggi più usati" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camillalac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiche GitHub" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camillalac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguaggi più usati" />
 
 <img src="https://streak-stats.demolab.com?user=camillalac&theme=tokyonight&hide_border=true&locale=it" alt="Streak di contributi" />
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=camillalac&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trofei GitHub" />
+<img src="https://github-profile-trophy-omega.vercel.app/?username=camillalac&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trofei GitHub" />
 
 </div>
 

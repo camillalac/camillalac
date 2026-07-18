@@ -13,8 +13,8 @@
 
 ## 🚀 Cosa faccio
 
-- 📱 Sviluppo **app mobile** con React Native, Expo e Supabase
-- 🧠 Faccio **ricerca sugli LLM**: studio la *sycophancy* nei modelli che generano codice
+- 📱 Sviluppo **app mobile** con React Native e Supabase
+- 🧠 Faccio **ricerca sugli LLM**
 - 📊 Analisi dati e visualizzazione con Python
 
 ## 🛠️ Tech Stack
@@ -31,8 +31,7 @@
 
 | Progetto | Descrizione | Stack |
 |---|---|---|
-| [**repcheck**](https://github.com/camillalac/repcheck) | App mobile per il tracking degli allenamenti | React Native · Expo · TypeScript · Supabase |
-| [**llm-code-sycophancy**](https://github.com/camillalac/llm-code-sycophancy) | Studio empirico sulla sycophancy degli LLM nella valutazione del codice | Python · analisi dati |
+| [**smartmobility**](https://github.com/camillalac/smartmobility) | Progetto sulla mobilità intelligente | — |
 
 ## 📊 Statistiche GitHub
 

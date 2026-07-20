@@ -60,6 +60,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=camillalac&color=blueviolet&style=flat-square&label=Visite+al+profilo" alt="Contatore visite" />
 
-*"Il codice migliore è quello che non devi spiegare."*
+
 
 </div>

@@ -57,14 +57,7 @@ I'm a Software Engineering student at the University of Bari Aldo Moro (Italy). 
 
 ## 📊 GitHub stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camillalac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camillalac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=camillalac&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-</div>
+<div align="center"> <img height="170" src="https://github-readme-stats-ten-rho-63.vercel.app/api?username=camillalac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats-ten-rho-63.vercel.app/api/top-langs/?username=camillalac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" /> <img src="https://streak-stats.demolab.com?user=camillalac&theme=tokyonight&hide_border=true" alt="Contribution streak" /> </div>
 
 ---
 

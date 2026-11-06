@@ -51,7 +51,7 @@ I'm a Software Engineering student at the University of Bari Aldo Moro (Italy). 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**SmartMobility**](https://github.com/FrancescoGiannulo/SmartMobility) | Team project: a shared urban mobility platform built for university coursework | _add your stack here_ |
+| [**SmartMobility**](https://github.com/FrancescoGiannulo/SmartMobility) | Team project: a shared urban mobility platform built for university coursework |React 19, Vite, TypeScript, FastAPI, Supabase (PostgreSQL + PostGIS), Google Maps, Groq + Llama 3.3 |
 
 > More projects coming soon.
 

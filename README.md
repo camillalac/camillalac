@@ -1,56 +1,68 @@
 <div align="center">
 
-# Ciao, sono Camilla 👋
+# Hi, I'm Camilla 👋
 
-**Mobile developer & AI researcher** — costruisco app con React Native e studio il comportamento dei Large Language Models.
+**Software Engineering student · Mobile developer · LLM researcher**
+
+I build mobile apps with React Native and study how Large Language Models behave on code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-camillalac-181717?style=for-the-badge&logo=github)](https://github.com/camillalac)
-[![Email](https://img.shields.io/badge/Email-contattami-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camillalacirignola05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camillalacirignola05@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Cosa faccio
+## 👩‍💻 About me
 
-- 📱 Sviluppo **app mobile** con React Native e Supabase
-- 🧠 Faccio **ricerca sugli LLM**
-- 📊 Analisi dati e visualizzazione con Python
+I'm a Software Engineering student at the University of Bari Aldo Moro (Italy). I enjoy turning ideas into working products, from the data layer to the user interface, and I'm especially interested in AI and cybersecurity.
+
+## 🚀 What I'm working on
+
+- 📱 Building **mobile apps** with React Native, TypeScript and Supabase
+- 🧠 Learning about **LLMs** and how they work
+- 📊 **Data analysis and visualization** with Python
+- 🌱 Currently learning: React, TypeScript, Node.js and JavaScript
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Frameworks & Backend**
+
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**Tools & Practices**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat-square)
+![UML](https://img.shields.io/badge/UML-FABD14?style=flat-square)
 
-## 📌 Progetti in evidenza
+## 📌 Featured projects
 
-| Progetto | Descrizione | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [**smartmobility**](https://github.com/FrancescoGiannulo/SmartMobility.git) | Progetto sulla mobilità intelligente | — |
+| [**SmartMobility**](https://github.com/FrancescoGiannulo/SmartMobility) | Team project: a shared urban mobility platform built for university coursework | _add your stack here_ |
 
-## 📊 Statistiche GitHub
+> More projects coming soon.
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camillalac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiche GitHub" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camillalac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguaggi più usati" />
-
-<img src="https://streak-stats.demolab.com?user=camillalac&theme=tokyonight&hide_border=true&locale=it" alt="Streak di contributi" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=camillalac&theme=tokyo-night&hide_border=true&area=true" alt="Grafico attività" />
-
-</div>
-
-## 🏆 Trofei
+## 📊 GitHub stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy-omega.vercel.app/?username=camillalac&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trofei GitHub" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=camillalac&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camillalac&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=camillalac&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
 
@@ -58,8 +70,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=camillalac&color=blueviolet&style=flat-square&label=Visite+al+profilo" alt="Contatore visite" />
-
-
+📫 **Open to internships and junior opportunities** — feel free to reach out!
 
 </div>

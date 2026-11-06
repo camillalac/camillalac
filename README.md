@@ -31,7 +31,7 @@
 
 | Progetto | Descrizione | Stack |
 |---|---|---|
-| [**smartmobility**](https://github.com/camillalac/smartmobility) | Progetto sulla mobilità intelligente | — |
+| [**smartmobility**](https://github.com/FrancescoGiannulo/SmartMobility.git) | Progetto sulla mobilità intelligente | — |
 
 ## 📊 Statistiche GitHub
 
